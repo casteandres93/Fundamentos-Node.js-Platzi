@@ -1,0 +1,11 @@
+{
+  "name": "fundamentos-node.js-platzi",
+  "version": "1.0.0",
+  "description": "Proyecto de fundamentos de Node.js en Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "n/a"
+  },
+  "author": "",
+  "license": "ISC"
+}
